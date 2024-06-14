@@ -1,3 +1,3 @@
 Complete IPL dataset in the format of JSON compressed in a ZIP File.
 
-Also converted as .CSV file using Python.
+Convert this dataset to .CSV file using Python Script - "ipl_json_to_csv.py".
